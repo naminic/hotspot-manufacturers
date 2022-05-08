@@ -13,12 +13,12 @@ Naminic has been designing electronics board based on stm32 since 2013 and desig
 ## Product Information (required)
 * What is this product's model name or model number? Naminic Helium Stand alone Miner
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-First we will start with to build full hotspot then we will develop light hotspot if needed.
-* Is it for indoor or outdoor?  indoor
+Light hotspot
+* Is it for indoor or outdoor?  indoor and outdoor
 * Provide a brief description: We use RaspBerry Pi zeroW or Pi4B as the calculation and control  module of the mining machine.
  We use sx 1302 LoRa Gatwaye Module High Speed for communication gateway. 
-* What is your approximate price point? 600$- 700$
-* What is your expected production and delivery timeline? Our mvp will be complete in a mounth 
+* What is your approximate price point? 400$- 500$
+* What is your expected production and delivery timeline? Our mvp will be complete in June
 
 ## Previous shipments (required)
 Startups welcomed!
@@ -49,8 +49,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? ECC608
 * Which LoRa chipset are you planning to use in your gateway? (i.e. SX1302, SX1303, etc, only list one) SX1302
 We recommend you don't use the SX1301 in new designs. 
-* What is the CPU? Quad core ARM-cortex -A72
-* Other Hardware Specifications: 
+* What is the CPU? RK3308
+* Other Hardware Specifications: RAM 512ddr3 and 256ddr3
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before? Yes Zigbee module 
